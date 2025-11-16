@@ -1,2 +1,2 @@
-# symmetrical-journey
+# Local Collaborative Filtering
 Local Collaborative Filtering
