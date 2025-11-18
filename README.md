@@ -1,5 +1,5 @@
 # Local Collaborative Filtering
-This experiment is conducted for the paper "Local Collaborative Filtering: A Collaborative Filtering Method that Utilizes Local Similarities among Users", where the method is referred to as LCF.
+This experiment is conducted for the paper "Local Collaborative Filtering: A Collaborative Filtering Method that Utilizes Local Similarities among Users", where the method is referred to as LCF. The paper is available at http://arxiv.org/abs/2511.13166.
 
 The experimental data originates from a dataset concerning Steam (https://www.kaggle.com/datasets/tamber/steam-video-games/data), and the code is based on Matlab.
 
